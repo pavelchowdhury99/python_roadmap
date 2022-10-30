@@ -1,4 +1,4 @@
-# Python Roadmap from scratch
+# Python Roadmap from Scratch
 
 ## Basics
 
@@ -18,9 +18,10 @@
 
 ### Resources:
 1. [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-2. [Practice at Hackerrank](https://www.hackerrank.com/domains/python)
-3. [Articles at GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
-4. [Corey Schafer YouTube Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+2. [Python Courses](https://www.naukri.com/learning/python-courses-certification?q=python%20courses&fftid=hamburger)
+3. [Practice at Hackerrank](https://www.hackerrank.com/domains/python)
+4. [Articles at GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+5. [Corey Schafer YouTube Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 ### Project Ideas
 1. Automating Excel Tasks
@@ -33,7 +34,7 @@
 1. Apply OOPs concepts in your code
 2. Start Following Pylint standards
 3. Learn Data Structures and Algorithms
-4. Start Exploring Peripherial and speacialized modules
+4. Start Exploring other modules (pandas, requests etc)
 5. Start controlling versions using Git
 6. Create end to end projects
 7. Learn about testing
