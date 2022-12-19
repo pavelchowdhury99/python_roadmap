@@ -96,3 +96,6 @@
 2. [App Development](https://www.youtube.com/c/Freecodecamp)
 3. [Data Science / Analytics / Data Engineering Courses](https://www.youtube.com/c/Freecodecamp)
 4. [DevOps Courses](https://www.youtube.com/c/Freecodecamp)
+
+## Walkthrough
+[![How to learn Python from scratch? | Python learning roadmap (step-by-step) | Python resources](https://yt-embed.herokuapp.com/embed?v=BiX95aSJbfE)](https://youtu.be/OoDd5PgAwKg "How to learn Python from scratch? | Python learning roadmap (step-by-step) | Python resources")
